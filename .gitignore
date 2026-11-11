@@ -96,3 +96,4 @@ c/tiny_inkling/
 .claude/
 .gitignore
 node_modules
+config.bat
